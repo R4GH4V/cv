@@ -1,0 +1,147 @@
+.top-container {
+  background-color: #E4F9F5;
+  margin-left: 0;
+  margin-right: 0;
+  padding-top: 100px;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  text-align: left;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.middle-container {
+  background-color: #E4F9F5;
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+#pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: relative;
+  left: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+}
+
+hr {
+  border: dotted #555555 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.dp {
+  border-radius: 15%
+}
+
+.normal {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+}
+
+.code-img {
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+}
+
+.edu-img {
+  width: 40%;
+  float: right;
+  margin-left: 30px;
+}
+
+.right-align {
+  float: right;
+}
+
+.center-align {
+  text-align: center;
+}
+
+.testbutton {
+  font-family: 'Montserrat', sans-serif;
+  color: #FFFFFF !important;
+  font-size: 20px;
+  text-shadow: 1px 1px 0 #7CACDE;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 10px 25px;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  border: 2px solid #3866A3;
+  background: #63B8EE;
+  background: linear-gradient(top,  #11CDD4,  #11999E);
+  background: -ms-linear-gradient(top,  #11CDD4,  #11999E);
+  background: -webkit-gradient(linear, left top, left bottom, from(#11CDD4), to(#11999E));
+  background: -moz-linear-gradient(top,  #11CDD4,  #11999E);
+  text-decoration: none;
+}
+.testbutton:hover {
+  color: #14396A !important;
+  background: #468CCF;
+  background: linear-gradient(top,  #30E3CB,  #2bc4ad);
+  background: -ms-linear-gradient(top,  #30E3CB,  #2bc4ad);
+  background: -webkit-gradient(linear, left top, left bottom, from(#30E3CB), to(#2bc4ad));
+  background: -moz-linear-gradient(top,  #30E3CB,  #2bc4ad);
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: .75rem;
+}
