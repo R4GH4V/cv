@@ -32,7 +32,7 @@ body {
 }
 
 a {
-  color: #11999E;
+  color: ##3366CC;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
@@ -43,6 +43,10 @@ a:hover {
 }
 
 p {
+  line-height: 1.5;
+}
+
+pre {
   line-height: 1.5;
 }
 
