@@ -48,6 +48,8 @@ p {
 
 pre {
   line-height: 1.5;
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
 }
 
 .middle-container {
